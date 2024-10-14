@@ -1,2 +1,5 @@
 # Courses
-Hardware, networks, virtualization and cybersecurity.
+
+> Hardware, Networking, Virtualization and Cybersecurity.
+
+---
